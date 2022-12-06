@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "name": { "title": "Mr", "first": "Clyde", "last": "Rice" },
+      "id": { "name": "SSN", "value": "480-31-1930" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+      }
+    },
+    {
+      "name": { "title": "Mr", "first": "Randall", "last": "Oliver" },
+      "id": { "name": "SSN", "value": "895-71-2708" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      }
+    }
+  ],
+  "info": {
+    "seed": "4edbab48f46dfb71",
+    "results": 2,
+    "page": 1,
+    "version": "1.4"
+  }
+}
